@@ -1,0 +1,33 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: pink;
+}
+
+.title {
+    color: blue;
+    background-color: aquamarine;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 40px;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+.side-by-side {
+    text-align: center;
+    padding-inline-start: 0;
+}
+
+.side-by-side li{
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+a {
+    border: 5px;
+    padding: 10px;
+    border-style: dotted;
+    border-color: purple;
+    margin: 5px;
+}
